@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Hello, World!
 
-I'm glad you are here. I plan to talk about ...
+This page is currently under development. Please come back again later.
+
+現在、このサイトは開発中です。また今度、来てください。
